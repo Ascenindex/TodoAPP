@@ -12,7 +12,14 @@ This is a simple To-Do List project developed using HTML5, CSS3, and JavaScript.
 
 
 ## Technologies Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascenindex)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex;">
+  <h6>Languages:</h6>
+  <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="16" />
+  <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=4e0b1e" height="16" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=white&color=3e0928" height="16" />
+
+</div>
+
 
 
 ## Demo
