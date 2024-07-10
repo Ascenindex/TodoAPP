@@ -10,9 +10,9 @@ This is a simple To-Do List project developed using HTML5, CSS3, and JavaScript.
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
+- HTML5 <img src="https://github.com/Ascenindex/TodoAPP/assets/132282100/66916822-a286-4903-b00a-14574db33d28" alt="HTML-Logo" width="50" height="50">
+- CSS3 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS-Logo" width="50" height="50">
+- JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Js-Logo" width="50" height="50">
 
 ## Demo
 
