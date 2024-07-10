@@ -2,21 +2,26 @@
 
 This is a simple To-Do List project developed using HTML5, CSS3, and JavaScript.
 
+
+
 ## Features
 
 - Add new tasks by typing text and clicking "Send".
 - Remove tasks by clicking the trash icon next to each task.
 - Tasks are saved locally in the browser using `localStorage`.
 
-## Technologies Used
 
-- HTML5 <img src="https://github.com/Ascenindex/TodoAPP/assets/132282100/66916822-a286-4903-b00a-14574db33d28" alt="HTML-Logo" width="50" height="50">
-- CSS3 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS-Logo" width="50" height="50">
-- JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Js-Logo" width="50" height="50">
+## Technologies Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascenindex)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Demo
 
 ![Screenshot](demoProjectTodo.PNG)
+
+## Rank
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ascenindex)](https://github.com/ascenindex/github-readme-stats)
 
 ## Getting Started
 
