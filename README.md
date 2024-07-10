@@ -16,7 +16,7 @@ This is a simple To-Do List project developed using HTML5, CSS3, and JavaScript.
 
 ## Demo
 
-![Screenshot](demoProjectTodo.png)
+![Screenshot](demoProjectTodo.PNG)
 
 ## Getting Started
 
