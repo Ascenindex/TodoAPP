@@ -35,7 +35,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Author
 
 
-- GitHub: [Your GitHub](https://github.com/Ascenindex)
+- GitHub: [My GitHub](https://github.com/Ascenindex)
 
 ## License
 
